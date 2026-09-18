@@ -7,7 +7,6 @@ E-commerce funnel analysis conducted on a synthetic dataset of 4,129 events from
 - [Methodology](#methodology)
 - [Results](#results)
 - [Recommendations](#recommendations)
-- [Limitations](#limitations)
 - [Skills](#skills)
 - [Files](#files)
 ## Executive Summary
