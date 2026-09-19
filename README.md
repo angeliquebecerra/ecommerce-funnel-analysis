@@ -15,7 +15,7 @@ Which stage of the funnel represents the largest drop-off point, and how can we 
 ### Key Findings
 - 75.95% of users who reached the product page did not add a product to cart. **This is the largest drop-off in the funnel.** It's the single biggest opportunity in the funnel to test and optimize.
 
-- 58.06% of users who added an item to cart did not proceed to checkout. **Since these users already showed purchase intent, the barrier is more likely procedural** than motivational.
+- 58.06% of users who added an item to cart did not proceed to checkout. **Since these users already showed purchase intent, there could be a procedural barrier**.
 
 - 41.88% of users who reached checkout did not complete their purchase. This is arguably the **costliest drop-off point**, as these users had already committed to buying.
 
@@ -29,9 +29,9 @@ Which stage of the funnel represents the largest drop-off point, and how can we 
 
 3. **Reduce friction at the final purchase step.** Reduce required form fields, verify all payment methods complete without errors, and add trust signals: security badges and a clearly visible return policy.
 
-4. **Conduct an end-to-end mobile UX audit** covering page load speed, touch target sizing, form usability, and payment flow on smaller screens. Mobile underperforms at three of four funnel stages.
+4. **Conduct an end-to-end mobile UX audit** covering: page load speed, touch target sizing, form usability, and payment flow on smaller screens. Mobile underperforms at 3 of 4 funnel stages.
 
-5. **Validate Germany's checkout-to-confirmation pattern**. Its 81.25% drop-off is the highest in the dataset, but it is based on only 16 sessions. A new analysis needs to be conducted once more data has been collected.
+5. **Validate Germany's checkout-to-confirmation pattern**. Its 81.25% drop-off is the highest in the dataset, but it is based on 16 sessions only. A new analysis needs to be conducted once more data has been collected.
 
 ## Dataset
 ### Overview
